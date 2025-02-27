@@ -1,0 +1,8 @@
+#IPTV
+1
+#🇯🇵🇰🇷日韩系列🇯🇵🇰🇷
+https://raw.githubusercontent.com/HD66781/IPTV-TVbox/refs/heads/main/txt/m3u8-AV.txt
+#🍓小仙女萌妹社🍓
+https://raw.githubusercontent.com/HD66781/IPTV-TVbox/refs/heads/main/txt/xxn.txt
+#😈😈小女孩训练营😈😈
+https://raw.githubusercontent.com/HD66781/IPTV-TVbox/refs/heads/main/txt/xxnmmz.txt
